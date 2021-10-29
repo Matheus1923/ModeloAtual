@@ -1,0 +1,12 @@
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\bin\Debug\Modelo.ProjetoTreinamentoG120.ModelData.dll.config
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\bin\Debug\Modelo.ProjetoTreinamentoG120.ModelData.dll
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\bin\Debug\Modelo.ProjetoTreinamentoG120.ModelData.pdb
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\bin\Debug\EntityFramework.dll
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\bin\Debug\EntityFramework.xml
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\obj\Debug\Modelo.ProjetoTreinamentoG120.ModelData.csproj.AssemblyReference.cache
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\obj\Debug\Modelo.ProjetoTreinamentoG120.ModelData.csproj.CoreCompileInputs.cache
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\obj\Debug\Modelo.ProjetoTreinamentoG120.ModelData.csproj.CopyComplete
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\obj\Debug\Modelo.ProjetoTreinamentoG120.ModelData.dll
+C:\Users\theot\source\repos\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120\Modelo.ProjetoTreinamentoG120.ModelData\obj\Debug\Modelo.ProjetoTreinamentoG120.ModelData.pdb
